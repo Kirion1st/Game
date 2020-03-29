@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-javadoc.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-natives-macos.jar"/>
 	<classpathentry kind="lib" path="C:/Users/Lasse Dunker/Desktop/Projekte/Java Projects/GameEngine/lwjgl/lwjgl-natives-windows.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/GameEngine"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
